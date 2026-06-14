@@ -115,6 +115,19 @@ Every complex problem is a puzzle waiting for a framework. When I architect a so
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
+## 💻 Technical & Open Source Projects
+
+### 📊 [Machine Learning & Data Science Portfolio](https://github.com/ShariqueShafi/ML-Projects)
+A comprehensive repository demonstrating end-to-end expertise in predictive modeling, statistical analysis, text mining, and NLP. 
+- **Predictive Modeling:** Logistic/Linear Regression & Decision Trees for financial risk and healthcare cost analysis.
+- **Clustering:** K-Means Customer Segmentation & Apriori Market Basket Analysis.
+- **NLP & Text Mining:** Sentiment Analysis via HuggingFace Transformers (IMDB, Social Media, Product Reviews).
+
+### 🤖 AI Agentic Workflows & Tooling
+- **Claude MCP Integration:** Building and utilizing Model Context Protocol (MCP) architectures to create seamless integrations with Claude and agentic frameworks. *(Reach out at shariqueshafi06@gmail.com for collaboration!)*
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
 <h2 align="center">🤝 Open to Opportunities</h2>
 
 <div align="center" style="margin-top: 20px;">
